@@ -1,5 +1,5 @@
 # drum-play
-## A Drum Kit web application: ##
+## A Drum Kit web application ##
 ---------------
 * Interact with drums through clicks.
 * Interact with drums through keyboard buttons.
